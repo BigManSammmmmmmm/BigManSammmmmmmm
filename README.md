@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BigManSammmmmmmm
 - 👀 I’m interested in videography and gaming
 - 🌱 I’m currently learning html & css
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m looking to collaborate on an ecommerce website for small buisnesess
+- @ Contact me at Samfield16@outlook.com
 
 
 <!---
